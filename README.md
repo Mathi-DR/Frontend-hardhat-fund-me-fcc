@@ -1,0 +1,1 @@
+Welcome to the Minimalistic Funding Website! This is a simple web application that allows users to fund a project using Ethereum. It leverages MetaMask to connect to the Ethereum network and facilitate transactions.
